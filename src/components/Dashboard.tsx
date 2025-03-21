@@ -102,7 +102,7 @@ const Dashboard = () => {
                 <div className="aspect-square rounded-lg overflow-hidden">
                   <motion.img
                     whileHover={{ scale: 1.1 }}
-                    src={`https://images.unsplash.com/photo-156${item}349845537-4d257902454a?auto=format&fit=crop&w=300&h=300`}
+                    src={`https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&cs=tinysrgb&w=1200`}
                     alt="Product"
                     className="w-full h-full object-cover transition-transform duration-200"
                   />
